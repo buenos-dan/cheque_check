@@ -1,0 +1,434 @@
+1555998754543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KovT0eJ3ZzCE"
+1555998756638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555998756638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555998757008	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998757008	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998757009	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998757020	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998757021	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998757021	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998757033	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998757033	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998757034	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998764254	Marionette	INFO	Listening on port 35761
+1555998764389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1555998809308	Marionette	INFO	Stopped listening on port 35761
+1555998820485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dOIGnA8MPTgw"
+1555998821880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555998821880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555998822035	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998822035	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998822035	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998822040	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998822040	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998822040	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998822045	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998822045	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998822045	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998825307	Marionette	INFO	Listening on port 35893
+1555998825410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+1555998902199	Marionette	INFO	Stopped listening on port 35893
+1555998923522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fOUGx2hPrOS9"
+1555998924905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555998924905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555998925093	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998925093	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998925093	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555998925098	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998925098	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998925099	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555998925103	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998925104	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998925104	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555998928854	Marionette	INFO	Listening on port 38823
+1555998928968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+1555998983649	Marionette	INFO	Stopped listening on port 38823
+1555999001044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7JyPimVNsQX0"
+1555999002508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555999002508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555999002722	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999002722	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999002723	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999002729	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999002730	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999002730	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999002735	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999002735	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999002735	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999006171	Marionette	INFO	Listening on port 37691
+1555999006227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+1555999047569	Marionette	INFO	Stopped listening on port 37691
+1555999056987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vv6rwqXHYUvQ"
+1555999058324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555999058324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555999058460	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999058460	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999058461	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999058467	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999058467	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999058467	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999058477	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999058477	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999058478	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999061729	Marionette	INFO	Listening on port 45141
+1555999061843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+1555999146013	Marionette	INFO	Stopped listening on port 45141
+1555999147930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uby7KmP09bBN"
+1555999149306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555999149306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555999149503	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999149504	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999149504	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999149514	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999149514	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999149515	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999149527	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999149527	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999149528	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999153077	Marionette	INFO	Listening on port 43857
+1555999153202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1555999196682	Marionette	INFO	Stopped listening on port 43857
+1555999307047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sCdFclJzhIfo"
+1555999308474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555999308475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555999308663	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999308663	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999308663	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999308668	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999308669	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999308669	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999308674	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999308674	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999308674	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999312539	Marionette	INFO	Listening on port 42701
+1555999312690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+JavaScript error: https://baoxiao.icw.buaa.edu.cn/wsyy2019/ScriptResource.axd?d=3RzmhR6D2xFtDlEQcBZnz5uvgIqY_2guNtGsYtGJhK_0s9TxJ4X950hAicOco8Q2wx5eUnJqU3zvh0t-i-Y833iW9bTUcL0uBbzUKKghH0rtoxi-edQEPiGzHozAXr5EuTY5Xx0fp3MXXY-53rqMH-cy1BmD39UstBhbEW9zqmENvhaj4BIVSP1luyyZ-7Wx0&t=6119e399:1311, line 31: Error: Sys.WebForms.PageRequestManagerServerErrorException: 在服务器上处理请求时出现未知错误。服务器返回的状态码为: 0
+1555999349025	Marionette	INFO	Stopped listening on port 42701
+1555999461142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qCfBUyhhitcl"
+1555999462635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555999462635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555999462860	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999462860	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999462861	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999462873	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999462874	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999462874	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999462880	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999462881	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999462883	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999466853	Marionette	INFO	Listening on port 42199
+1555999466923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+JavaScript error: https://baoxiao.icw.buaa.edu.cn/wsyy2019/ScriptResource.axd?d=3RzmhR6D2xFtDlEQcBZnz5uvgIqY_2guNtGsYtGJhK_0s9TxJ4X950hAicOco8Q2wx5eUnJqU3zvh0t-i-Y833iW9bTUcL0uBbzUKKghH0rtoxi-edQEPiGzHozAXr5EuTY5Xx0fp3MXXY-53rqMH-cy1BmD39UstBhbEW9zqmENvhaj4BIVSP1luyyZ-7Wx0&t=6119e399:1311, line 31: Error: Sys.WebForms.PageRequestManagerServerErrorException: 在服务器上处理请求时出现未知错误。服务器返回的状态码为: 0
+1555999502997	Marionette	INFO	Stopped listening on port 42199
+1555999578109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9cakeinEcRQ3"
+1555999579475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555999579475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555999579641	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999579641	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999579641	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1555999579647	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999579648	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999579648	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1555999579653	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999579653	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999579653	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1555999583678	Marionette	INFO	Listening on port 39745
+1555999583753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1555999609549	Marionette	INFO	Stopped listening on port 39745
+1556000109301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VDVn36wVZCYY"
+1556000110743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556000110744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556000110972	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000110973	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000110973	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000110978	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000110978	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000110979	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000110984	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000110984	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000110984	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000115218	Marionette	INFO	Listening on port 41027
+1556000115289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+JavaScript error: https://baoxiao.icw.buaa.edu.cn/wsyy2019/ScriptResource.axd?d=3RzmhR6D2xFtDlEQcBZnz5uvgIqY_2guNtGsYtGJhK_0s9TxJ4X950hAicOco8Q2wx5eUnJqU3zvh0t-i-Y833iW9bTUcL0uBbzUKKghH0rtoxi-edQEPiGzHozAXr5EuTY5Xx0fp3MXXY-53rqMH-cy1BmD39UstBhbEW9zqmENvhaj4BIVSP1luyyZ-7Wx0&t=6119e399:1311, line 31: Error: Sys.WebForms.PageRequestManagerServerErrorException: 在服务器上处理请求时出现未知错误。服务器返回的状态码为: 0
+1556000188012	Marionette	INFO	Stopped listening on port 41027
+1556000321454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CB19infrFxC4"
+1556000322999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556000322999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556000323234	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000323234	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000323237	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000323250	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000323251	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000323251	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000323261	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000323261	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000323262	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000327652	Marionette	INFO	Listening on port 37065
+1556000327712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+JavaScript error: https://sso.buaa.edu.cn/login;jsessionid=344BF03AD396BCD267568DE619DE368C?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 1: ReferenceError: checkCode is not defined
+1556000346649	Marionette	INFO	Stopped listening on port 37065
+1556000825964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lJUjCtrqIe75"
+1556000827400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556000827401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556000827623	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000827623	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000827623	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000827634	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000827634	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000827635	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000827645	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000827645	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000827646	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000832162	Marionette	INFO	Listening on port 43597
+1556000832236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+[Parent 4633, Gecko_IOThread] WARNING: pipe error (134): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1556000852183	Marionette	INFO	Stopped listening on port 43597
+1556000912590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DiH2gc1v49DT"
+1556000914023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556000914023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556000914194	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000914194	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000914194	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000914205	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000914205	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000914206	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000914215	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000914215	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000914216	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000917987	Marionette	INFO	Listening on port 38653
+1556000918104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+[Parent 4802, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1556000927203	Marionette	INFO	Stopped listening on port 38653
+1556000972793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tK6dThUARWTn"
+1556000974193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556000974193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556000974373	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000974373	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000974374	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000974379	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000974379	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000974379	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000974386	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000974386	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000974387	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000986929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sUIAYNopO9tk"
+1556000988272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556000988273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556000988410	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000988410	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000988410	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556000988415	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000988415	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000988416	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556000988421	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000988421	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000988422	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556000992383	Marionette	INFO	Listening on port 34183
+1556000992532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+1556001012876	Marionette	INFO	Stopped listening on port 34183
+1556001261962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KoTSVL0FTXqK"
+1556001263459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556001263459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556001263658	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556001263659	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556001263659	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556001263669	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556001263670	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556001263670	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556001263680	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556001263680	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556001263680	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556001268252	Marionette	INFO	Listening on port 36025
+1556001268315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+[Parent 5270, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1556001282038	Marionette	INFO	Stopped listening on port 36025
+1556001319580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T47QVDq4vUDj"
+1556001320871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556001320871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556001321079	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556001321079	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556001321079	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556001321084	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556001321085	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556001321085	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556001321090	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556001321090	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556001321091	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556001324984	Marionette	INFO	Listening on port 39415
+1556001325139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1556001350687	Marionette	INFO	Stopped listening on port 39415
+1556002629201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0OsGiVNkDwv3"
+1556002630760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556002630760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556002630991	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002630991	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002630991	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002630997	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002630997	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002630998	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002631003	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002631003	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002631003	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002635771	Marionette	INFO	Listening on port 36313
+1556002635866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1556002665255	Marionette	INFO	Stopped listening on port 36313
+1556002763498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P7czUz4XzbGk"
+1556002764879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556002764879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556002765066	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002765066	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002765066	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002765071	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002765071	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002765072	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002765076	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002765076	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002765077	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002768899	Marionette	INFO	Listening on port 40111
+1556002768983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+JavaScript error: https://baoxiao.icw.buaa.edu.cn/wsyy2019/ScriptResource.axd?d=3RzmhR6D2xFtDlEQcBZnz5uvgIqY_2guNtGsYtGJhK_0s9TxJ4X950hAicOco8Q2wx5eUnJqU3zvh0t-i-Y833iW9bTUcL0uBbzUKKghH0rtoxi-edQEPiGzHozAXr5EuTY5Xx0fp3MXXY-53rqMH-cy1BmD39UstBhbEW9zqmENvhaj4BIVSP1luyyZ-7Wx0&t=6119e399:1311, line 31: Error: Sys.WebForms.PageRequestManagerServerErrorException: 在服务器上处理请求时出现未知错误。服务器返回的状态码为: 0
+1556002816750	Marionette	INFO	Stopped listening on port 40111
+1556002819412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zsPucOzBKEEK"
+1556002820739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556002820739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556002820861	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002820862	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002820866	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556002820881	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002820881	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002820881	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556002820906	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002820906	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002820907	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556002824280	Marionette	INFO	Listening on port 42409
+1556002824347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+1556002854812	Marionette	INFO	Stopped listening on port 42409
+1556015367339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I2yBJwVHBXpJ"
+1556015368898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556015368898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556015369150	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015369152	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015369152	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015369163	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015369163	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015369164	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015369171	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015369171	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015369171	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015374269	Marionette	INFO	Listening on port 44573
+1556015374410	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1556015381129	Marionette	INFO	Stopped listening on port 44573
+1556015389829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eVuI3fEOZb0p"
+1556015391128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556015391128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556015391267	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015391268	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015391268	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015391278	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015391279	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015391279	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015391289	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015391289	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015391290	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015394576	Marionette	INFO	Listening on port 42607
+1556015394677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+JavaScript error: https://baoxiao.icw.buaa.edu.cn/wsyy2019/ScriptResource.axd?d=3RzmhR6D2xFtDlEQcBZnz5uvgIqY_2guNtGsYtGJhK_0s9TxJ4X950hAicOco8Q2wx5eUnJqU3zvh0t-i-Y833iW9bTUcL0uBbzUKKghH0rtoxi-edQEPiGzHozAXr5EuTY5Xx0fp3MXXY-53rqMH-cy1BmD39UstBhbEW9zqmENvhaj4BIVSP1luyyZ-7Wx0&t=6119e399:1311, line 31: Error: Sys.WebForms.PageRequestManagerServerErrorException: 在服务器上处理请求时出现未知错误。服务器返回的状态码为: 0
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1556015438084	Marionette	INFO	Stopped listening on port 42607
+1556015442361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M3lW0tDQYdKS"
+1556015443619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1556015443619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1556015443735	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015443735	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015443736	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1556015443740	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015443741	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015443741	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1556015443746	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015443746	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015443746	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1556015447038	Marionette	INFO	Listening on port 46197
+1556015447152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sso.buaa.edu.cn/login?service=https://icw.buaa.edu.cn/checkbuaa.aspx, line 260: TypeError: document.getElementById(...) is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1556015474295	Marionette	INFO	Stopped listening on port 46197
